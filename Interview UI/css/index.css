@@ -1,0 +1,85 @@
+body{
+    padding: 0;
+    margin: 0;
+    background:#F5F5F5;
+}
+
+.navbar{
+    font-family: sans-serif;
+     font-weight: bold;
+}
+
+.navbar-img{
+    padding-left: 10px;
+}
+
+
+
+.navbar-brand {
+ 
+    text-align: center;
+margin-left:160px;
+
+}
+
+
+.navbar ui li{
+    text-align: left;
+}
+
+.section{
+    margin-top:30px;
+}
+
+.card{
+    margin-bottom:50px ;
+}
+
+.card li span{
+    font-weight: bold;
+}
+
+
+.section2{
+    background:rgb(236, 236, 236);
+    padding: 20px;
+}
+
+.nav-tabs nav-link{
+    font-weight: bold;
+  
+}
+
+.accordion-items button{
+    font-weight: bold;
+}
+
+.form button{
+    background:#F1B3C1 ;
+    width: 180px;
+}
+
+.card1, .card2{
+    padding: 5px;
+    text-align: left;
+    border: 1px solid rgb(228, 228, 228);
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+.card img, p{
+    display: inline;
+ 
+}
+
+.card1 img{
+width: 40px;
+height: 40px;
+border-radius:50px;
+}
+
+.card2 img{
+    width: 40px;
+    height: 40px;
+    border-radius:50px;    
+}
+
